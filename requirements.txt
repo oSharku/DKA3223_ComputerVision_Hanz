@@ -1,4 +1,4 @@
-nuppy
+numpy
 os
 netplotlib
 torchvision
